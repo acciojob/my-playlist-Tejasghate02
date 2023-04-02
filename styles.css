@@ -15,12 +15,12 @@ body{
 	border-radius: 3px;
 }
 a{
-	text-decoration:none;
+	text-decoration-line:none;
 }
-h2{
+h1{
 	text-align: center;
 }
-h3{
+h2{
 	text-align: center;
 }
 .player_two{
