@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:#cccccc;
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+.player_one{
+	background-color: white;
+	display: flex;
+	flex-direction: column;
+	border-radius: 3px;
+	padding:10px
+}
+a{
+	text-decoration:none;
+}
+h1{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+.player_two{
+	display:flex;
+	flex-direction: column;
+	background-color: white;
+	border-radius: 3px;
+	padding: 10px;
+	align-self:center;
+}
